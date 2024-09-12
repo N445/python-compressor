@@ -1,0 +1,1 @@
+# Python script for compress image for the web
